@@ -1,0 +1,281 @@
+@media (max-width: 1920px){
+	.banner-text{
+		top: 330px;
+		left: 400px;
+	}
+}
+@media (max-width: 1366px){
+	.banner-text{
+		top: 230px;
+    	left: 135px;
+	}
+}
+@media (max-width: 1024px){
+	.navbar{
+		padding-left: 0px;
+	}
+	.navbar-nav li{
+		margin-right: 15px;
+	}
+	.banner-text{
+		top: 140px;
+    	left: 56px;
+	}
+	.my-description h1{
+		font-size: 43px;
+		margin-top: 5px;
+		margin-bottom: 0px;
+	}
+	.my-description p{
+		margin-top: 15px;
+	}
+	.my-description ul{
+		margin-top: 15px;
+	}
+	.my-description ul li a{
+		font-size: 18px;
+	}
+	.finding{
+		margin-top: 0px;
+	}
+	.finding a{
+		font-size: 18px;
+	}
+	.finding p{
+		margin-bottom: 13px;
+	}
+	.post-image{
+		width: 180px;
+	}
+	.post-text{
+		font-size: 14px;
+	}
+	.post-header a{
+		font-size: 22px;
+	}
+	.post-content{
+		margin-left: 0px;
+	}
+	.author{
+		margin-top: 0px;
+	}
+	.author img{
+		margin-left: 5px;
+	}
+	.colling a{
+		margin-right: 10px;
+	}
+	.mo-col{
+		font-size: 22px;
+	}
+	.tryol p span{
+		font-size: 12px;
+	}
+	.field{
+		margin-top: 10px;
+	}
+}
+@media (max-width: 768px){
+	.header{
+		position: sticky;
+	}
+	.navbar-light .navbar-toggler{
+		margin-left: 452px;
+	}
+	.navbar-nav li a{
+		color: #000!important;
+	}
+	.ml-auto, .mx-auto{
+		margin-left: -178px!important;
+    	margin-top: 30px;
+	}
+	.header.nav-scroll{
+		display: none;
+	}
+	.banner-text{
+		top: 50px;
+	}
+	.my-description{
+		margin-top: 30px;
+	}
+	.user-saying{
+		margin-top: 30px;
+	}
+	.sercice-testmonial p{
+		margin-bottom: 0px;
+	}
+	.card{
+		margin-top: 30px;
+	}
+	.post-content{
+		margin-left: 55px;
+	}
+	.post-image{
+		width: 220px;
+	}
+	.author img{
+		margin-left: 55px;
+	}
+	.author{
+		margin-top: 30px;
+	}
+	.pening-our{
+		display: none;
+	}
+	.mo-col{
+		font-size: 18px;
+	}
+	.colling a{
+		margin-right: -20px;
+	}
+	.newsletter a{
+		display: none;
+	}
+	.Copyright p{
+		font-size: 14px;
+	}
+	.field{
+		width: 300px;
+		margin-top: 10px;
+	}
+}
+@media (max-width: 640px){
+	.navbar-light .navbar-toggler{
+		margin-left: 320px;
+	}
+	.navbar-nav li a{
+		color: #000!important;
+	}
+	.ml-auto, .mx-auto{
+		margin-left: -135px!important;
+    	margin-top: 30px;
+	}
+	.header.nav-scroll{
+		display: none;
+	}
+	.banner-text{
+		top: 40px;
+	}
+	.banner-text h1{
+		font-size: 26px;
+	}
+	.my-description h1{
+		font-size: 40px;
+	}
+	.testimonial-section .quote{
+		padding-left: 30px;
+		padding-right: 30px;
+	}
+	.testimonial-section .quote p{
+		font-size: 14px;
+	}
+	.sercice-testmonial p{
+		font-size: 14px;
+	}
+	.post-content{
+		margin-left: 15px;
+	}
+	.post-image{
+		width: 180px;
+	}
+	.author img{
+		margin-left: 15px;
+	}
+	.con-img img{
+		margin-top: 15px;
+	}
+	.colling a{
+		margin-right: 0px;
+	}
+	.newsletter a{
+		display: block;
+	}
+	.line{
+		margin-top: 30px;
+	}
+	.field{
+		margin-top: -25px;
+    	margin-right: 200px;
+	}
+}
+@media (max-width: 360px){
+	.navbar-light .navbar-toggler{
+		margin-left: 170px;
+	}
+	.navbar-nav li a{
+		color: #000!important;
+	}
+	.ml-auto, .mx-auto{
+		margin-left: -85px!important;
+    	margin-top: 30px;
+	}
+	.banner-text{
+		top: 20px;
+		left: 85px;
+	}
+	.banner-text h1{
+		display: none;
+	}
+	.banner-text small{
+		display: none;
+	}
+	.my-description h1{
+		font-size: 26px;
+	}
+	.my-description ul li{
+		margin-left: 5px;
+	}
+	.my-description ul li a{
+		font-size: 14px;
+	}
+	.finding a{
+		font-size: 14px;
+	}
+	.sercice-testmonial small{
+		font-size: 14px;
+	}
+	.sercice-testmonial h1{
+		font-size: 26px;
+	}
+	.part img{
+		width: 65px;
+	}
+	.develop{
+		font-size: 20px;
+	}
+	.button-1{
+		margin-left: 10px;
+	}
+	.post-image{
+		width: 100px;
+		height: 120px;
+	}
+	.post-header a{
+		font-size: 16px;
+	}
+	.post-text{
+		font-size: 12px;
+    	line-height: 18px;
+	}
+	.author-name{
+		font-size: 16px;
+	}
+	.author img{
+		margin-left: -5px;
+	}
+	.author-content{
+		margin-left: 0px;
+	}
+	.categories ul li a{
+		font-size: 14px;
+	}
+	.colling a{
+		margin-right: -45px;
+	}
+	.mo-col{
+		font-size: 14px;
+	}
+	.field{
+		display: none;
+	}
+}
