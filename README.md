@@ -22,7 +22,7 @@ This is my personal portfolio website built using HTML, CSS, and JavaScript.
 - personal.html
 
 ## 📞 Contact
-- Email: sujit@example.com
+- Email: sujit111504@gmail.com
 - Phone: +8801323352320
 
 ## 📌 Author
